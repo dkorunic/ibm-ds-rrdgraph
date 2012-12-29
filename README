@@ -1,0 +1,11 @@
+README
+======
+
+INFO:
+This is a simple IBM Disk Storage System RRD grapher for any DS which uses
+IBM System Storage DS Storage Manager, versions from 10 above. You'll need
+rrdtool, configured Storage Manager and SMcli in either your $PATH or
+SMcli path changed in script itself.
+
+Results from script are self-obvious, RRDs are trivial to display and
+manipulate from any existing PHP classes or Python modules.
